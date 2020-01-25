@@ -1,0 +1,9 @@
+[package]
+name = "binary-to-bmp-converter"
+version = "1.0.0"
+authors = ["jorgeacortes"]
+edition = "2018"
+repository = "https://github.com/jorgeacortes/binary-to-bmp-converter"
+
+[dependencies]
+bmp = "0.5.0"
